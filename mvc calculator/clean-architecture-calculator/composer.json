@@ -1,0 +1,11 @@
+{
+    "name": "yazid/clean-architecture-calculator",
+    "description": "A simple calculator using Clean Architecture",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "CleanArchitectureCalculator\\": "src/"
+        }
+    },
+    "require": {}
+}
